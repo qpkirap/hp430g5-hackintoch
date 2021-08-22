@@ -2,6 +2,7 @@
 OpenCore - Hackintosh Intel i3 7100u
 
 ##### Laptop Specifications:
+- BIOS last update
 - Intel Core i3 7100u CPU (Kaby Lake)
 - Intel HD 620 Graphics
 - 12GB DDR4 2400MHz RAM (upgraded)
